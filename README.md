@@ -3,9 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seltonkauhay/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selton-silva-0b8a3a9a/)
 
-[![selton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kauhay)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Selton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauhay&show_icons=true&theme=tokyonight)
 
 ## Teconologias que uso no meu dia.
 <div style="display: inline_block"><br/>
@@ -18,3 +16,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauhay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
